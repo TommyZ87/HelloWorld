@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Changing Strings</string>
+
+    <string name="hello_world">Hi how are you</string>
+    <string name="action_settings">I\'m well this should be settings</string>
+
+    <string name = "abc">def</string>
+</resources>
